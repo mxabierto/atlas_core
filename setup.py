@@ -14,7 +14,7 @@ setup(
     version="v0.2.7",
     author="Mali Akmanalp <Harvard CID>",
     description=("Core building blocks for atlas projects at CID."),
-    url="http://github.com/cid-harvard/atlas_core",
+    url="http://github.com/mxabierto/atlas_core",
     packages=find_packages(exclude=["atlas_core.sample"]),
     install_requires=[
         'Flask>=0.10.1,<1',
